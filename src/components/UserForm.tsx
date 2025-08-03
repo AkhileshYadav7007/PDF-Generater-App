@@ -6,6 +6,7 @@ import { FormData, FormErrors } from '@/types';
 import { validateForm, hasErrors } from '@/utils/validation';
 import { generatePDF } from '@/utils/pdfGenerator';
 
+
 const UserForm: React.FC = () => {
   const router = useRouter();
   const [formData, setFormData] = useState<FormData>({
