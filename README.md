@@ -5,7 +5,7 @@ This is a front-end assignment project completed for the internship opportunity 
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the deployed site](https://front-end-assignment-ochre.vercel.app)
+🌐 [Click here to view the deployed site](https://pdf-generater-app.vercel.app/)
 
 ## 📁 Project Structure
 
